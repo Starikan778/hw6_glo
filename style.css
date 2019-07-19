@@ -1,0 +1,91 @@
+.rectangle{
+  position:relative;
+  margin-top: 86px;
+  margin-right:auto;
+  margin-left:auto;
+  width: 1010px;
+  height: 503px;
+  border: 1px solid #d7d7d7;
+  background-color: #ffffff;
+}
+
+.img{
+  position: absolute;
+  display: inline-block;
+  margin-top: 64px;
+  margin-left: 48px;
+  margin-right: 102px;
+  margin-bottom:64px; 
+  width: 376px;
+  height: 375px;
+}
+
+.item{
+  position: absolute;
+  display: inline-block;
+  margin-top: 94px;
+  margin-bottom: 81px;
+  margin-left: 520px;
+  margin-right: 93;
+  width: 376px;
+  height: 375px;
+}
+
+.name{
+  width: 178px;
+  height: 22px;
+  color: #2f2f2f;
+  font-size: 23px;
+  font-weight: 400;
+}
+
+.desc{
+  margin-top: 30px;
+  width: 393px;
+  height: 50px;
+  color: #2f2f2f;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.price{
+  margin-top: 55px;
+  width: 35px;
+  height: 14px;
+  color: #2f2f2f;
+  font-family: "Arial MT";
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.price_rub{
+  margin-top: 23px;
+  width: 103px;
+  height: 28px;
+  color: #2f2f2f;
+  font-family: "Arial MT";
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.button{
+  position: relative;
+  margin-top: 30px;
+  width: 252px;
+  height: 50px;
+  background-color: #ec744a;
+}
+
+.text{
+  position: absolute;
+  width: 174px;
+  height: 18px;
+  color: #ffffff;
+  font-family: "Arial MT";
+  font-size: 19px;
+  font-weight: 400;
+  margin-left: 39px;
+  text-align: center;
+  line-height: 14px;
+
+}
